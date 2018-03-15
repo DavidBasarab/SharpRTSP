@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\localadmin\.Rider2017.3\system\resharper-host\local\Transient\ReSharperHost\v11\SolutionCaches\_RTSP.-519248973.00" t="ExcludeRecursive" />
+    <e p="F:\Code\SharpRTSP" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="RTSP" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="G711Payload.cs" t="Include" />
+        <e p="H264Payload.cs" t="Include" />
+        <e p="IRTSPTransport.cs" t="Include" />
+        <e p="Messages" t="Include">
+          <e p="PortCouple.cs" t="Include" />
+          <e p="RTSPChunk.cs" t="Include" />
+          <e p="RTSPData.cs" t="Include" />
+          <e p="RTSPHeaderNames.cs" t="Include" />
+          <e p="RTSPMessage.cs" t="Include" />
+          <e p="RTSPRequest.cs" t="Include" />
+          <e p="RTSPRequestAnnounce.cs" t="Include" />
+          <e p="RTSPRequestDescribe.cs" t="Include" />
+          <e p="RTSPRequestGetParameter.cs" t="Include" />
+          <e p="RTSPRequestOptions.cs" t="Include" />
+          <e p="RTSPRequestPause.cs" t="Include" />
+          <e p="RTSPRequestPlay.cs" t="Include" />
+          <e p="RTSPRequestRecord.cs" t="Include" />
+          <e p="RTSPRequestSetup.cs" t="Include" />
+          <e p="RTSPRequestTeardown.cs" t="Include" />
+          <e p="RTSPResponse.cs" t="Include" />
+          <e p="RTSPTransport.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="RTSP.csproj" t="IncludeRecursive" />
+        <e p="RTSPListener.cs" t="Include" />
+        <e p="RTSPMessageEventArgs.cs" t="Include" />
+        <e p="RTSPTCPTransport.cs" t="Include" />
+        <e p="RTSPUtils.cs" t="Include" />
+        <e p="Sdp" t="Include">
+          <e p="Attribut.cs" t="Include" />
+          <e p="AttributFmtp.cs" t="Include" />
+          <e p="AttributRtpMap.cs" t="Include" />
+          <e p="Bandwidth.cs" t="Include" />
+          <e p="Connection.cs" t="Include" />
+          <e p="ConnectionIP4.cs" t="Include" />
+          <e p="ConnectionIP6.cs" t="Include" />
+          <e p="EncriptionKey.cs" t="Include" />
+          <e p="H264Parameter.cs" t="Include" />
+          <e p="Media.cs" t="Include" />
+          <e p="Origin.cs" t="Include" />
+          <e p="SdpFile.cs" t="Include" />
+          <e p="SdpTimeZone.cs" t="Include" />
+          <e p="Timing.cs" t="Include" />
+        </e>
+        <e p="UdpSocket.cs" t="Include" />
+      </e>
+      <e p="RTSP.sln" t="IncludeFlat" />
+      <e p="RTSP.Tests" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Messages" t="Include">
+          <e p="PortCoupleTests.cs" t="Include" />
+          <e p="RtspDataTest.cs" t="Include" />
+          <e p="RTSPMessageTest.cs" t="Include" />
+          <e p="RtspResponseTests.cs" t="Include" />
+          <e p="RtspTransportTest.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="RTSP.Tests.csproj" t="IncludeRecursive" />
+        <e p="RTSPListenerTest.cs" t="Include" />
+        <e p="RTSPUtilsTest.cs" t="Include" />
+        <e p="Sdp" t="Include">
+          <e p="Data" t="Include">
+            <e p="test1.sdp" t="Include" />
+            <e p="test2.sdp" t="Include" />
+            <e p="test3.sdp" t="Include" />
+          </e>
+          <e p="H264ParametersTests.cs" t="Include" />
+          <e p="SdpFileTest.cs" t="Include" />
+        </e>
+      </e>
+      <e p="RtspCameraExample" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CJOCh264bitstream.cs" t="Include" />
+        <e p="CJOCh264encoder.cs" t="Include" />
+        <e p="FFMpeg" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="RTPPacketUtil.cs" t="Include" />
+        <e p="RtspCameraExample.csproj" t="IncludeRecursive" />
+        <e p="RtspServer.cs" t="Include" />
+        <e p="SimpleH264Encoder.cs" t="Include" />
+        <e p="TestCard.cs" t="Include" />
+        <e p="TinyH264Encoder.cs" t="Include" />
+      </e>
+      <e p="RtspClientExample" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="RTSPClient.cs" t="Include" />
+        <e p="RtspClientExample.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="RtspMultiplexer" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Fowarder.cs" t="Include" />
+        <e p="NLog.config" t="Include" />
+        <e p="NLog.xsd" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="OriginContext.cs" t="Include" />
+        <e p="packages.config" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="RtspDispatcher.cs" t="Include" />
+        <e p="RtspMultiplexer.csproj" t="IncludeRecursive" />
+        <e p="RtspPushDescription.cs" t="Include" />
+        <e p="RtspPushManager.cs" t="Include" />
+        <e p="RtspServer.cs" t="Include" />
+        <e p="RtspSession.cs" t="Include" />
+        <e p="TcpToUdpForwader.cs" t="Include" />
+        <e p="UdpForwarder.cs" t="Include" />
+      </e>
+    </e>
+  </component>
+</project>

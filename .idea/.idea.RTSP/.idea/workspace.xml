@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fffa0a4c-8343-48ae-948c-d787cea67ea5" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/RtspCameraExample/RTPPacketUtil.cs" afterPath="$PROJECT_DIR$/RtspCameraExample/RTPPacketUtil.cs" />
+      <change beforePath="$PROJECT_DIR$/RtspCameraExample/RtspCameraExample.csproj" afterPath="$PROJECT_DIR$/RtspCameraExample/RtspCameraExample.csproj" />
+      <change beforePath="$PROJECT_DIR$/RtspCameraExample/RtspServer.cs" afterPath="$PROJECT_DIR$/RtspCameraExample/RtspServer.cs" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="RtspServer.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RtspCameraExample/RtspServer.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="387">
+              <caret line="10" column="23" lean-forward="false" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="packages.config" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/RTSP/packages.config">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="129">
+              <caret line="3" column="11" lean-forward="false" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>h264_width</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/RtspMultiplexer/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RtspCameraExample/RtspServer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RTSP/packages.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RTSP/UdpSocket.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RtspCameraExample/RTPPacketUtil.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RTSP/Messages/RTSPData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RtspMultiplexer/RtspServer.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/RtspCameraExample/RTPPacketUtil.cs" />
+        <option value="$PROJECT_DIR$/RtspCameraExample/RtspServer.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="3832" />
+    <option name="y" value="-8" />
+    <option name="width" value="3856" />
+    <option name="height" value="2136" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="RTSP (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="RTSP (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="RTSP" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="RTSP (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="RtspCameraExample" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fffa0a4c-8343-48ae-948c-d787cea67ea5" name="Default" comment="" />
+      <created>1521077244718</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1521077244718</updated>
+      <workItem from="1521077245989" duration="1616000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1616000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="3832" y="-8" width="3856" height="2136" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12486828" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/RtspMultiplexer/RtspServer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-559">
+          <caret line="16" column="43" lean-forward="true" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+          <folding>
+            <marker date="1521077241407" expanded="true" signature="25:2960" ph="{...}" />
+            <marker date="1521077241407" expanded="false" signature="38:181" ph="..." />
+            <marker date="1521077241407" expanded="true" signature="228:2958" ph="{...}" />
+            <marker date="1521077241407" expanded="true" signature="472:647" ph="/// Initializes a new instance of the &lt;see cref=&quot;RTSPServer&quot;/&gt; class. ... " />
+            <marker date="1521077241407" expanded="true" signature="689:1149" ph="{...}" />
+            <marker date="1521077241407" expanded="true" signature="1159:1226" ph="/// Starts the listen. ... " />
+            <marker date="1521077241407" expanded="true" signature="1260:1495" ph="{...}" />
+            <marker date="1521077241407" expanded="true" signature="1505:1577" ph="/// Accepts the connection. ... " />
+            <marker date="1521077241407" expanded="true" signature="1617:2424" ph="{...}" />
+            <marker date="1521077241407" expanded="true" signature="1643:2068" ph="{...}" />
+            <marker date="1521077241407" expanded="true" signature="1703:2054" ph="{...}" />
+            <marker date="1521077241407" expanded="true" signature="2110:2258" ph="{...}" />
+            <marker date="1521077241407" expanded="true" signature="2294:2412" ph="{...}" />
+            <marker date="1521077241407" expanded="true" signature="2458:2580" ph="{...}" />
+            <marker date="1521077241407" expanded="true" signature="2590:2952" ph="IDisposable Membres" />
+            <marker date="1521077241407" expanded="true" signature="2648:2734" ph="{...}" />
+            <marker date="1521077241407" expanded="true" signature="2790:2932" ph="{...}" />
+            <marker date="1521077241407" expanded="true" signature="2827:2922" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RTSP/Messages/RTSPData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1521077241310" expanded="false" signature="6:85" ph="..." />
+            <marker date="1521077241310" expanded="true" signature="110:1522" ph="{...}" />
+            <marker date="1521077241310" expanded="true" signature="117:206" ph="/// Message wich represent data. ($ limited message) ... " />
+            <marker date="1521077241310" expanded="true" signature="244:1520" ph="{...}" />
+            <marker date="1521077241310" expanded="true" signature="346:421" ph="/// Logs the message to debug. ... " />
+            <marker date="1521077241310" expanded="true" signature="483:965" ph="{...}" />
+            <marker date="1521077241310" expanded="true" signature="1017:1196" ph="/// Clones this instance. ... " />
+            <marker date="1521077241310" expanded="true" signature="1235:1514" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RtspMultiplexer/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="13" column="47" lean-forward="false" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
+          <folding>
+            <marker date="1521077241401" expanded="true" signature="25:643" ph="{...}" />
+            <marker date="1521077241401" expanded="false" signature="38:106" ph="..." />
+            <marker date="1521077241401" expanded="true" signature="125:641" ph="{...}" />
+            <marker date="1521077241401" expanded="true" signature="266:635" ph="{...}" />
+            <marker date="1521077241401" expanded="true" signature="508:536" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RtspCameraExample/RTPPacketUtil.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1247">
+          <caret line="29" column="1" lean-forward="false" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+          <folding>
+            <marker date="1521077604757" expanded="true" signature="33:1059" ph="{...}" />
+            <marker date="1521077604757" expanded="true" signature="197:373" ph="{...}" />
+            <marker date="1521077604757" expanded="true" signature="457:577" ph="{...}" />
+            <marker date="1521077604757" expanded="true" signature="638:824" ph="{...}" />
+            <marker date="1521077604757" expanded="true" signature="881:1057" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RTSP/UdpSocket.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <marker date="1521077241347" expanded="false" signature="6:81" ph="..." />
+            <marker date="1521077241347" expanded="true" signature="97:6957" ph="{...}" />
+            <marker date="1521077241347" expanded="true" signature="126:6956" ph="{...}" />
+            <marker date="1521077241347" expanded="true" signature="527:715" ph="/// Initializes a new instance of the &lt;see cref=&quot;UDPSocket&quot;/&gt; class. ... " />
+            <marker date="1521077241347" expanded="true" signature="770:2002" ph="{...}" />
+            <marker date="1521077241347" expanded="true" signature="1107:1871" ph="{...}" />
+            <marker date="1521077241347" expanded="true" signature="1217:1410" ph="{...}" />
+            <marker date="1521077241347" expanded="true" signature="1450:1857" ph="{...}" />
+            <marker date="1521077241347" expanded="true" signature="2013:2199" ph="/// Initializes a new instance of the &lt;see cref=&quot;UDPSocket&quot;/&gt; class. ... " />
+            <marker date="1521077241347" expanded="true" signature="2342:3773" ph="{...}" />
+            <marker date="1521077241347" expanded="true" signature="2631:3452" ph="{...}" />
+            <marker date="1521077241347" expanded="true" signature="3488:3763" ph="{...}" />
+            <marker date="1521077241347" expanded="true" signature="3783:3853" ph="/// Starts this instance. ... " />
+            <marker date="1521077241347" expanded="true" signature="3881:4662" ph="{...}" />
+            <marker date="1521077241347" expanded="true" signature="3954:4092" ph="{...}" />
+            <marker date="1521077241347" expanded="true" signature="4135:4259" ph="{...}" />
+            <marker date="1521077241347" expanded="true" signature="4672:4741" ph="/// Stops this instance. ... " />
+            <marker date="1521077241347" expanded="true" signature="4768:5097" ph="{...}" />
+            <marker date="1521077241347" expanded="true" signature="4808:5018" ph="{...}" />
+            <marker date="1521077241347" expanded="true" signature="5107:5188" ph="/// Occurs when message is received. ... " />
+            <marker date="1521077241347" expanded="true" signature="5271:5497" ph="/// Raises the &lt;see cref=&quot;E:DataReceived&quot;/&gt; event. ... " />
+            <marker date="1521077241347" expanded="true" signature="5579:5758" ph="{...}" />
+            <marker date="1521077241347" expanded="true" signature="5769:5837" ph="/// Does the video job. ... " />
+            <marker date="1521077241347" expanded="true" signature="5922:6950" ph="{...}" />
+            <marker date="1521077241347" expanded="true" signature="6027:6804" ph="{...}" />
+            <marker date="1521077241347" expanded="true" signature="6141:6790" ph="{...}" />
+            <marker date="1521077241347" expanded="true" signature="6248:6336" ph="/* We have an RTP frame. ... */" />
+            <marker date="1521077241347" expanded="true" signature="6848:6876" ph="{...}" />
+            <marker date="1521077241347" expanded="true" signature="6912:6940" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RtspCameraExample/RtspServer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="10" column="23" lean-forward="false" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RTSP/packages.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="3" column="11" lean-forward="false" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
